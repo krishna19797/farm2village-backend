@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node dist/server.js",
     "dev": "ts-node-dev src/server.ts",
-    "build": "tsc",
-  "install": "npm install"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
